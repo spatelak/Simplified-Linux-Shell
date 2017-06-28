@@ -1,0 +1,2 @@
+cd ~/cs252
+setenv SOURCE_VAR MY_VAR

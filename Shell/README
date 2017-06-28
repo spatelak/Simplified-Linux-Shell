@@ -1,0 +1,15 @@
+Siddharth Patel: spatelak
+
+1) Features that work:
+   - IO Redirection and Piping
+   - Ctrl-c
+   - Exit
+   - Builtins
+   - Wildcarding
+   - Background and Zombie Elimination
+   - Quotes
+   - Escaping
+   - Environment Variable Expansion
+   - Tilde Expansion
+   - Subshells
+   - Line Editor

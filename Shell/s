@@ -1,0 +1,3 @@
+ls | grep regular
+ls -al `pwd`
+ps
